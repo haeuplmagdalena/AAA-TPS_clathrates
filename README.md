@@ -1,6 +1,6 @@
 # Running the AAA-TPS workflow for CO₂ clathrate hydrates
 
-This document walks through the full pipeline used in the paper, from
+This document walks through the full pipeline used in the paper for the sections concerning the CO₂ clathrate system, from
 equilibrated initial paths to the figures in the main text. Commands assume you are in the repository root.
 
 For the theory and parameter choices, see the paper and its Supplementary
